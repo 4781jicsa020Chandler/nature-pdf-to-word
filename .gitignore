@@ -1,0 +1,17 @@
+.DS_Store
+.Rhistory
+/.build
+/Packages
+/dist
+/outputs
+/node_modules
+/Linear RAG-fixed.docx
+__pycache__/
+*.pyc
+*conflicted copy*
+nature_oa_downloader/output/
+xcuserdata/
+DerivedData/
+.swiftpm/configuration/registries.json
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+.netrc

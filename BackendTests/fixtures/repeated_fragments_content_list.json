@@ -1,0 +1,22 @@
+[
+  {
+    "page_idx": 0,
+    "text": "Nature | www.nature.com | 1",
+    "bbox": [22, 19, 451, 36]
+  },
+  {
+    "page_idx": 1,
+    "text": "2 | Nature | www.nature.com",
+    "bbox": [22, 19, 451, 36]
+  },
+  {
+    "page_idx": 2,
+    "text": "Nature | www.nature.com | 3",
+    "bbox": [22, 19, 451, 36]
+  },
+  {
+    "page_idx": 0,
+    "text": "Linear RAG scanning mediates editing of Igκ variable region repertoires",
+    "bbox": [48, 87, 482, 139]
+  }
+]
